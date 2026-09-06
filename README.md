@@ -100,20 +100,7 @@ Currently focused on:
 
 ---
 
-## `04` · GITHUB ANALYTICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshiya-Ruksar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshiya-Ruksar&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiya-Ruksar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## `05` · CURRENT DIRECTION
+## `04` · CURRENT DIRECTION
 
 ```text
 DATA
@@ -133,7 +120,7 @@ DEVELOPMENT
 
 ---
 
-## `06` · LET'S CONNECT
+## `05` · LET'S CONNECT
 
 <p align="center">
 
